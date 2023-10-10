@@ -1,3 +1,3 @@
 # Jadis: An AND/OR Heuristic Search Planner for FOND Planning
 
-Jadis is a FOND planner that employs AND/OR heuristic search.
+Jadis is a FOND planner that employs AND/OR heuristic search (AO* and LAO*).
